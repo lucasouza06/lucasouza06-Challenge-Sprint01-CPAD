@@ -5,16 +5,16 @@
 
 ## 👥 Integrantes do Grupo — Turma 2CCPW · FIAP
 
-| Nome | GitHub |
+| Nome | RM |
 |---|---|
-| Luis Otavio Santini Feitosa | — |
-| Rogério Deligi | — |
-| Maria Fernanda Garavelli | — |
-| Vitor Barbosa de Paiva | — |
-| Arthur Traldi Felix | — |
-| Lucas Andrade de Souza | — |
+| Luis Otavio Santini Feitosa | 563556 |
+| Rogério Deligi | 561942 |
+| Maria Fernanda Garavelli | 562686 |
+| Vitor Barbosa de Paiva | 565303 |
+| Arthur Traldi Felix | 563477 |
+| Lucas Andrade de Souza | 564066 |
 
-> **Challenge CCR Motiva · Sprint 1 · 2025**
+> **Challenge CCR Motiva · Sprint 1 · 2026**
 
 ---
 
